@@ -286,5 +286,21 @@
             },
             "recycled": false
         }
+    },
+    {
+        "video_name": "grok-video-a93d04d8-859e-43d9-8e49-b5096b20ae35 (3).mp4",
+        "metadata": {
+            "title": "Feed Your Body Like a Best Friend: The Superfoods That Support Your Heart, Boost Your Gut, and Defend Your Immunity",
+            "description": "Hey friend\u2014let\u2019s turn everyday eating into a feel-good wellness ritual! In this quick video, I\u2019ll share simple food benefits for your heart, gut, immune system, and overall vitality, with easy \u201cwhy it works\u201d tips you can start right away. Think of it as nourishment with a purpose: antioxidants, smart nutrition, and superfood goodness that helps you feel stronger from the inside out. Like if you care about your health! Comment which body part next! Share with someone who needs this! Follow Wellspire Whims!",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
