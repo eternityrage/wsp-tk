@@ -446,5 +446,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-a93d04d8-859e-43d9-8e49-b5096b20ae35 (16).mp4",
+        "metadata": {
+            "title": "\u2728 Fuel Your Body\u2019s Powerhouse: The Superfoods That Support Your Gut, Immunity & Beyond!",
+            "description": "Hey friend\u2014if you\u2019ve ever wondered how to feel stronger, lighter, and more energized, start in the kitchen! In this video, I\u2019m sharing an uplifting wellness tip: how specific nutrient-rich foods can support your gut health, help strengthen your immune system, and boost your body\u2019s daily resilience. Think of it as a delicious way to care for yourself\u2014one mindful bite at a time. Like if you care about your health! Comment which body part next! Share with someone who needs this! Follow Wellspire Whims! #health #wellness #nutrition #healthyfood #hearthealth #guthealth #immunesystem #superfood #antioxidants #bones",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
