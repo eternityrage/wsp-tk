@@ -814,5 +814,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-2c5433cd-b1d0-4aa7-bee3-ac650e35d80e-720p.mp4",
+        "metadata": {
+            "title": "Your Heart\u2019s Best Friend: Power Foods That Support Every Beat \u2764\ufe0f\u2728",
+            "description": "Hey friend\u2014let\u2019s fuel your heart the delicious way! In this quick wellness video, I\u2019m sharing simple, heart-supporting food benefits that help your body thrive from the inside out. You\u2019ll learn which superfood-style choices can support circulation, reduce inflammation, and keep your energy steady for the days you care about most. Like if you care about your health! Comment which body part next! Share with someone who needs this! Follow Wellspire Whims!",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": false
+        }
     }
 ]
