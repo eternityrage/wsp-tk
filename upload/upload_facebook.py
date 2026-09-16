@@ -16,9 +16,10 @@ env_path = Path(__file__).parent.parent / '.env'
 load_dotenv(dotenv_path=env_path, override=True)
 
 def _post_pinned_comment(video_id, description, access_token, page_id):
-    import time
+    import time, re
     website = "https://gleku.com/wellspire-whims/"
-    pinned_message = f"{description}\n\n🌐 Learn more at our website: {website}"
+    clean_desc = re.sub(r'^(hey\s+(friend|there|everyone|guys|folks|friends)[!,.\s]*)', '', description, flags=re.IGNORECASE).strip()
+    pinned_message = f"{clean_desc}\n\n🌐 Learn more at our website: {website}" if clean_desc else f"🌐 Learn more at our website: {website}"
     print(f"[facebook] Posting pinned comment with website ({website})...")
     max_retries = 5
     comment_id = None
